@@ -1,0 +1,19 @@
+{
+  "name": "hex-school",
+  "version": "1.0.0",
+  "description": "Node.js 企業專題班任務回報",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@sam:samlin1122/hex-school.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
